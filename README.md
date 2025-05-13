@@ -1,7 +1,7 @@
 # Multi-language-translator
-#This multi language translator uses m2m100 model by meta 
-#it can convert the following languages:
- '''   "English": "en",
+This multi language translator uses m2m100 model by meta 
+it can convert the following languages:
+    "English": "en",
     "French": "fr",
     "German": "de",
     "Spanish": "es",
@@ -21,4 +21,4 @@
     "Italian": "it",
     "Punjabi": "pa",
     "Marathi": "mr"
-    '''
+    
